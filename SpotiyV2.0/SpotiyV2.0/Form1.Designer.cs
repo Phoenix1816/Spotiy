@@ -325,7 +325,7 @@ namespace SpotiyV2._0
             panel14.Controls.Add(pictureBox9);
             panel14.Location = new Point(25, 22);
             panel14.Name = "panel14";
-            panel14.Size = new Size(1040, 753);
+            panel14.Size = new Size(1066, 753);
             panel14.TabIndex = 17;
             // 
             // pictureBox21
@@ -385,9 +385,9 @@ namespace SpotiyV2._0
             // 
             pictureBox4.BorderStyle = BorderStyle.FixedSingle;
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(122, 87);
+            pictureBox4.Location = new Point(77, 87);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(173, 192);
+            pictureBox4.Size = new Size(230, 222);
             pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox4.TabIndex = 0;
             pictureBox4.TabStop = false;
@@ -420,7 +420,7 @@ namespace SpotiyV2._0
             pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
             pictureBox5.Location = new Point(32, 11);
             pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(55, 47);
+            pictureBox5.Size = new Size(55, 55);
             pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox5.TabIndex = 0;
             pictureBox5.TabStop = false;

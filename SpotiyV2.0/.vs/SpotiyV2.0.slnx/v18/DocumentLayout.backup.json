@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|c:\\users\\ms\u0131\\source\\repos\\spotiyv2.0\\spotiyv2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|c:\\users\\ms\u0131\\source\\repos\\spotiyv2.0\\spotiyv2.0\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|c:\\users\\ms\u0131\\source\\repos\\spotiyv2.0\\spotiyv2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|c:\\users\\ms\u0131\\source\\repos\\spotiyv2.0\\spotiyv2.0\\sanat\u00E7\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\sanat\u00E7\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|c:\\users\\ms\u0131\\source\\repos\\spotiyv2.0\\spotiyv2.0\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\spotiyv2.0\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8742B1-9D28-FB1C-5852-F85F1A68E7F6}|SpotiyV2.0\\SpotiyV2.0.csproj|solutionrelative:spotiyv2.0\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.cs",
-              "RelativeDocumentMoniker": "SpotiyV2.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "SpotiyV2.0\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T10:57:10.433Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.cs",
-              "RelativeDocumentMoniker": "SpotiyV2.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.cs",
-              "RelativeToolTip": "SpotiyV2.0\\Form1.cs",
-              "ViewState": "AgIAAFMEAAAAAAAAAAArwGcEAAANAAAAAAAAAA==",
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\SignUp.cs",
+              "RelativeDocumentMoniker": "SpotiyV2.0\\SignUp.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\SignUp.cs",
+              "RelativeToolTip": "SpotiyV2.0\\SignUp.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T10:44:57.118Z",
+              "WhenOpened": "2025-12-15T20:52:17.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sanat\u00E7\u0131.cs",
-              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Sanat\u00E7\u0131.cs",
-              "RelativeDocumentMoniker": "SpotiyV2.0\\Sanat\u00E7\u0131.cs",
-              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Sanat\u00E7\u0131.cs",
-              "RelativeToolTip": "SpotiyV2.0\\Sanat\u00E7\u0131.cs",
-              "ViewState": "AgIAAGcBAAAAAAAAAAAvwHgBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\SignUp.cs",
+              "RelativeDocumentMoniker": "SpotiyV2.0\\SignUp.cs",
+              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\SignUp.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SpotiyV2.0\\SignUp.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T10:33:34.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "SpotiyV2.0\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\ms\u0131\\source\\repos\\SpotiyV2.0\\SpotiyV2.0\\Form1.Designer.cs",
-              "RelativeToolTip": "SpotiyV2.0\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T15:53:31.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:17:22.895Z",
+              "EditorCaption": " [Tasar\u0131m]"
             }
           ]
         }

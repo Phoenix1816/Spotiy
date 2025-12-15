@@ -1,0 +1,4 @@
+Spotiy is a Windows-based music application developed using the .NET 10 framework and MySQL.
+It allows users to sign up, log in, listen to music, manage favorite songs, and edit their profiles.
+Artists can upload songs and manage their content, while administrators can manage users by banning or unbanning accounts.
+The application uses a role-based system and a structured database design to ensure security, usability, and data integrity.

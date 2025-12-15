@@ -141,7 +141,6 @@ namespace LoginSginupResetPassword
             button2.Text = "Log In";
             button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
-
             // 
             // button1
             // 
@@ -155,7 +154,6 @@ namespace LoginSginupResetPassword
             button1.TabIndex = 13;
             button1.Text = "Sign Up";
             button1.UseVisualStyleBackColor = false;
-
             // 
             // Account
             // 
